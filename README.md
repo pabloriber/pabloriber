@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @pabloriber
-- 👀 I’m interested in game dev 
-- 🌱 I’m currently learning nothing... but trying to learn something :)
-- 💞️ I’m looking to collaborate on agora deu o carai memo
-- 📫 How to reach me i dont no :)
-
-<Faz o L
-pabloriber/pabloriber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-Faz o L>
+- 👋 Hi, I’m @pabloriber,a Freelancer programer.
+- 👀 I’m interessed in make anything you wanna me to made,but is good to remenber that i am a
+- self-date programer and im learnig and using.
+- 🌱 I’m currently Programing in Python,Pygame,Html and Css.
+- 💞️ I’m looking to collaborate on everything. 
+- 📫 How to reach me: pabloriber0202@gmail.com, and that github.
+- 💸 im charging a little bit of money to you,something like $6,00 USD.
