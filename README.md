@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pabloriber,a Freelancer programer.
 - 👀 I’m interessed in make anything you wanna me to made,but is good to remember that i am a
-- self-date programer and im learnig and using.
+- self-date programer and im learning and using.
 - 🌱 I’m currently Programing in Python,Pygame,Html and Css.
 - 💞️ I’m looking to collaborate on everything. 
 - 📫 How to reach me: pabloriber0202@gmail.com,https://sites.google.com/view/pablo-ribeiro/in%C3%ADcio and that github.
